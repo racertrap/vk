@@ -30,7 +30,7 @@ PM> Install-Package VkNet
 4. [Список часто задаваемых вопросов](https://github.com/vknet/vk/wiki/FAQ)
 5. [Обсуждение в Telegram](https://t.me/VkDotNet)
 
-# План развития проекта
+# План развития проектаa
 
 - Обновить некоторые методы в соответствии с [changelog vk](https://vk.com/dev/versions) до актуальной версии 5.103.
 - Обновить документацию проекта
